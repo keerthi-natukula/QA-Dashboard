@@ -8,6 +8,15 @@ This Power BI dashboard provides a comprehensive overview of QA audit performanc
 - Microsoft Excel
 - Power Query
 - DAX
+## Skills Demonstrated
+
+- Power BI Dashboard Design
+- Data Visualization
+- DAX Measures
+- Power Query
+- KPI Analysis
+- Data Modeling
+- Interactive Reporting
 
 ## Dashboard Features
 - Total Audits
